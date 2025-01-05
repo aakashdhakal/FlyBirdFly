@@ -1,2 +1,2 @@
-# game-test
-<p>Here you can find the installer for my game</p>
+# Fly Bird Fly
+A simple flappy bird game made as a hobby in free time
